@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @di4nsyah
+- 👀 I’m interested in baseball and gunpla
+- 🌱 I’m currently learning front-end
+- 💞️ I’m looking to collaborate on my upcoming project
+- 📫 Reach me on discord @sskyier
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Indonesia 
