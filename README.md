@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on my upcoming project
 - 📫 Reach me on discord @sskyier
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Indonesia 
+- ⚡ Fun fact: I'm Indonesian
+- 
