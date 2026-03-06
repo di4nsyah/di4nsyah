@@ -5,4 +5,3 @@
 - 📫 Reach me on discord @sskyier
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Indonesian
-- 
