@@ -1,0 +1,111 @@
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12060a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <filter id="textGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#E60012" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <!-- base panel -->
+  <rect x="0" y="0" width="700" height="260" fill="url(#panelBg)"/>
+  <rect x="0" y="0" width="700" height="260" fill="url(#scanlines)"/>
+  <rect x="1" y="1" width="698" height="258" fill="none" stroke="#3a1014" stroke-width="1"/>
+
+  <!-- corner brackets, matching hero banner motif -->
+  <g stroke="#E60012" stroke-width="2.5" fill="none">
+    <path d="M 10,28 L 10,10 L 28,10"/>
+    <path d="M 672,10 L 690,10 L 690,28"/>
+    <path d="M 690,232 L 690,250 L 672,250"/>
+    <path d="M 28,250 L 10,250 L 10,232"/>
+  </g>
+
+  <!-- header row -->
+  <g filter="url(#textGlow)">
+    <text x="26" y="42" fill="#FF3355" font-size="19" font-weight="bold" letter-spacing="1">&gt; SYSTEM STATUS</text>
+  </g>
+  <text x="26" y="42" fill="#4be7ff" font-size="19" font-weight="bold" letter-spacing="1" opacity="0.35" transform="translate(-1.2,0.8)">&gt; SYSTEM STATUS</text>
+  <line x1="230" y1="36" x2="660" y2="36" stroke="#E60012" stroke-width="1" opacity="0.5"/>
+
+  <!-- decorative corner icon, top right -->
+  <g transform="translate(660,20)" stroke="#E60012" stroke-width="1.4" fill="none" opacity="0.8">
+    <rect x="0" y="0" width="12" height="12"/>
+    <rect x="5" y="5" width="12" height="12" fill="#0d1117"/>
+  </g>
+
+  <!-- status rows -->
+  <g font-size="15" letter-spacing="0.5">
+    <!-- row template: [ONLINE] label, y positions 78..218 step 23.3 -->
+    <g filter="url(#textGlow)">
+      <text x="34" y="78" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="78" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="78" fill="#e8eef2">Transmission Log</text>
+    </g>
+    <g filter="url(#textGlow)">
+      <text x="34" y="101" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="101" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="101" fill="#e8eef2">Deployed Units</text>
+    </g>
+    <g filter="url(#textGlow)">
+      <text x="34" y="124" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="124" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="124" fill="#e8eef2">Proficiency Readout</text>
+    </g>
+    <g filter="url(#textGlow)">
+      <text x="34" y="147" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="147" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="147" fill="#e8eef2">Equipment &amp; Armaments</text>
+    </g>
+    <g filter="url(#textGlow)">
+      <text x="34" y="170" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="170" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="170" fill="#e8eef2">Operations Log</text>
+    </g>
+    <g filter="url(#textGlow)">
+      <text x="34" y="193" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="193" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="193" fill="#e8eef2">Sortie Records</text>
+    </g>
+    <g filter="url(#textGlow)">
+      <text x="34" y="216" fill="#FFD700" font-weight="bold">[ONLINE]</text>
+      <text x="34" y="216" fill="#4be7ff" opacity="0.3" transform="translate(-1,0.6)">[ONLINE]</text>
+      <text x="128" y="216" fill="#e8eef2">Communication Channel</text>
+    </g>
+  </g>
+
+  <!-- bottom tick ruler, matching hero banner footer -->
+  <g stroke="#E60012" stroke-width="1" opacity="0.6">
+    <line x1="10" y1="246" x2="690" y2="246"/>
+  </g>
+  <g stroke="#E60012" stroke-width="1" opacity="0.5">
+    <line x1="20" y1="242" x2="20" y2="250"/>
+    <line x1="60" y1="244" x2="60" y2="250"/>
+    <line x1="100" y1="242" x2="100" y2="250"/>
+    <line x1="140" y1="244" x2="140" y2="250"/>
+    <line x1="180" y1="242" x2="180" y2="250"/>
+    <line x1="220" y1="244" x2="220" y2="250"/>
+    <line x1="260" y1="242" x2="260" y2="250"/>
+    <line x1="300" y1="244" x2="300" y2="250"/>
+    <line x1="340" y1="242" x2="340" y2="250"/>
+    <line x1="380" y1="244" x2="380" y2="250"/>
+    <line x1="420" y1="242" x2="420" y2="250"/>
+    <line x1="460" y1="244" x2="460" y2="250"/>
+    <line x1="500" y1="242" x2="500" y2="250"/>
+    <line x1="540" y1="244" x2="540" y2="250"/>
+    <line x1="580" y1="242" x2="580" y2="250"/>
+    <line x1="620" y1="244" x2="620" y2="250"/>
+    <line x1="660" y1="242" x2="660" y2="250"/>
+  </g>
+</svg>
