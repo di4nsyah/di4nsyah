@@ -19,19 +19,16 @@
 
 [![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
 
+<table>
+<tr>
+<td width="150" align="center">
+
+[![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
+
 </td>
 <td>
 
-```
-> SYSTEM STATUS ________________________________
-   [ONLINE]   Transmission Log
-   [ONLINE]   Deployed Units
-   [ONLINE]   Proficiency Readout
-   [ONLINE]   Equipment & Armaments
-   [ONLINE]   Operations Log
-   [ONLINE]   Sortie Records
-   [ONLINE]   Communication Channel
-```
+[![system status](https://github.com/di4nsyah/di4nsyah/raw/main/assets/system-status-panel.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/system-status-panel.svg)
 
 </td>
 </tr>
