@@ -1,137 +1,138 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" width="100%" alt="hero banner" />
+[![hero banner](https://github.com/di4nsyah/di4nsyah/raw/main/assets/hero-banner.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/hero-banner.svg)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1000&pause=300&color=8C8C8C&center=true&vCenter=true&width=500&lines=%3E+booting+unit...;%3E+loading+pilot+data...;%3E+access+granted" alt="boot sequence" />
+# 『 UNIT: SAZABI-CLASS 』
+### CALLSIGN — RED COMET
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=Currently+deploying%3A+PocketTrack;Currently+studying%3A+RPL+at+SMKN+6+Jakarta;Currently+learning%3A+front-end;Status%3A+open+to+internship+offers" alt="status ticker" />
+[![Boot Sequence](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1000&pause=300&color=8C8C8C&center=true&vCenter=true&width=500&lines=%3E+booting+unit...;%3E+loading+pilot+data...;%3E+access+granted)](https://github.com/di4nsyah)
+
+[![Status Ticker](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=Currently+deploying%3A+PocketTrack;Currently+studying%3A+RPL+at+SMKN+6+Jakarta;Currently+learning%3A+front-end;Status%3A+open+to+internship+offers)](https://github.com/di4nsyah)
 
 </div>
 
-<br>
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-<img src="assets/divider.svg" width="100%" />
-
-<table width="100%">
+<table>
 <tr>
-<td width="160" align="center" valign="top">
+<td width="150" align="center">
 
-<img src="assets/unit-crest.svg" width="150" alt="unit crest" />
+[![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
 
 </td>
-<td valign="top">
+<td>
 
 ```
 > SYSTEM STATUS ________________________________
-
-  [ONLINE]   Transmission Log
-  [ONLINE]   Deployed Units
-  [ONLINE]   Proficiency Readout
-  [ONLINE]   Equipment & Armaments
-  [ONLINE]   Operations Log
-  [ONLINE]   Sortie Records
-  [ONLINE]   Communication Channel
+   [ONLINE]   Transmission Log
+   [ONLINE]   Deployed Units
+   [ONLINE]   Proficiency Readout
+   [ONLINE]   Equipment & Armaments
+   [ONLINE]   Operations Log
+   [ONLINE]   Sortie Records
+   [ONLINE]   Communication Channel
 ```
 
 </td>
 </tr>
 </table>
 
-Started out messing with HTML and CSS in school, now I build full working systems. A stock trading dashboard with real IDX-specific rules, a finance tracker built for students, a map rendering sixty thousand airports from raw data. Most of what's below started as "let's see if I can" and turned into something people can actually use.
+> **`LOG_ENTRY // 001`**
+> Started out messing with HTML and CSS in school, now I build full working systems. A stock trading dashboard with real IDX-specific rules, a finance tracker built for students, a map rendering sixty thousand airports from raw data. Most of what's below started as *"let's see if I can"* and turned into something people can actually use.
 
-<img src="assets/divider.svg" width="100%" />
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## TRANSMISSION LOG — OFF DUTY
+## 🔴 TRANSMISSION LOG — PILOT DOSSIER
 
-- 👋 Hi, I'm Diansyah, goes by ssky online
-- 🪖 Into gunpla builds and baseball outside of code
-- 🌱 Currently leveling up my front-end, backend's always been the comfort zone
-- 🤝 Open to collaborating if you've got a project worth building
-- 💬 Discord is the fastest way to reach me — sskyier
-- 😄 He/him
-- ⚡ Based in Indonesia
+> `> decrypting personnel file...`
 
-<img src="assets/divider.svg" width="100%" />
+| FIELD | READOUT |
+|---|---|
+| **DESIGNATION** | Diansyah — callsign `ssky` |
+| **CURRENT ORDERS** | Leveling up front-end ops; backend remains home turf 🌱 |
+| **OFF-DUTY** | Gunpla builds 🪖 · baseball ⚾ |
+| **ROE (RULES OF ENGAGEMENT)** | Open to collaborating on anything worth building 🤝 |
+| **COMMS CHANNEL** | Discord — fastest way to reach me: `sskyier` |
+| **PRONOUNS** | He/him |
+| **BASE OF OPERATIONS** | Indonesia 🇮🇩 |
 
-## DEPLOYED UNITS
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-No favorites here — everything gets the same readout.
+## ⚔️ DEPLOYED UNITS — WEAPON ARSENAL
 
-| Unit | Classification | Stack | Status |
-|---|---|---|---|
-| IDX Trading Analyzer | Trading tool | FastAPI, SQLite, Gemini AI | Active |
-| Kopi Senja | Client project | PHP, MySQL | Completed |
-| PocketTrack | Finance tracker | Web app | In development |
-| Projost Academy | School project | PHP, MySQL | Completed |
-| Skyport | Interactive map / portfolio | Laravel, Leaflet.js, MySQL | Completed |
+> `> querying deployment registry...` No favorites here — every unit gets the same readout.
 
-<!-- TODO: point each row to its actual repo, e.g. [IDX Trading Analyzer](https://github.com/di4nsyah/idx-trading-analyzer) -->
+| UNIT NO. | CALLSIGN | CLASSIFICATION | LOADOUT | STATUS |
+|---|---|---|---|---|
+| `MS-01` | **IDX Trading Analyzer** | Recon / Analysis Unit | `FastAPI` `SQLite` `Gemini AI` | 🟢 ACTIVE |
+| `MS-02` | **Kopi Senja** | Client Contract | `PHP` `MySQL` | 🏁 COMPLETE |
+| `MS-03` | **PocketTrack** | Support Unit — Finance Tracker | `Web App` | 🛠️ IN PROGRESS |
+| `MS-04` | **Projost Academy** | Training Simulation | `PHP` `MySQL` | 🏁 COMPLETE |
+| `MS-05` | **Skyport** | Reconnaissance / Mapping Unit | `Laravel` `Leaflet.js` `MySQL` | 🏁 COMPLETE |
 
-<img src="assets/divider.svg" width="100%" />
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## PROFICIENCY READOUT
+## 📡 PROFICIENCY READOUT — WEAPON CALIBRATION
 
 ```
-  HTML / CSS       ███████████████████░  95%
-  JavaScript       ████████████████░░░░  80%
-  PHP               ██████████████████░░  90%
-  Laravel          ████████████████░░░░  80%
-  MySQL            ███████████████░░░░░  75%
-  C# / .NET        ██████████░░░░░░░░░░  50%
+HTML / CSS       ███████████████████░  95%
+JavaScript       ████████████████░░░░  80%
+PHP              ██████████████████░░  90%
+Laravel          ████████████████░░░░  80%
+MySQL            ███████████████░░░░░  75%
+C# / .NET        ██████████░░░░░░░░░░  50%
 ```
+> Self-assessed — recalibrate to whatever reads honest.
 
-<sub>Self-assessed — adjust the bars to whatever feels honest.</sub>
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-<img src="assets/divider.svg" width="100%" />
-
-## EQUIPMENT & ARMAMENTS
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=laravel,dotnet&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" />
-
-<img src="assets/divider.svg" width="100%" />
-
-## OPERATIONS LOG
+## 🛠️ EQUIPMENT & ARMAMENTS
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/di4nsyah/di4nsyah/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/di4nsyah/di4nsyah/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/di4nsyah/di4nsyah/output/snake-dark.svg" width="100%" />
-</picture>
+**LANGUAGES**
+
+[![skills](https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark)](https://skillicons.dev)
+
+**FRAMEWORKS & LIBRARIES**
+
+[![skills](https://skillicons.dev/icons?i=laravel,dotnet&theme=dark)](https://skillicons.dev)
+
+**TOOLS**
+
+[![skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<!-- This only shows up once snake.yml has been added to .github/workflows/ and has run at least once -->
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-<img src="assets/divider.svg" width="100%" />
+## 🛰️ OPERATIONS LOG — LIVE TELEMETRY
 
-## SORTIE RECORDS
+> `> streaming contribution feed...`
+
+![contribution snake](https://raw.githubusercontent.com/di4nsyah/di4nsyah/output/snake-dark.svg)
+
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
+
+## 🎯 SORTIE RECORDS — COMBAT DATA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=di4nsyah&show_icons=true&theme=transparent&title_color=E60012&icon_color=E60012&text_color=C9D1D9&bg_color=00000000&border_color=E60012&hide_border=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=di4nsyah&layout=compact&theme=transparent&title_color=E60012&text_color=C9D1D9&bg_color=00000000&border_color=E60012&hide_border=false" height="165" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=di4nsyah&show_icons=true&hide_border=true&title_color=E60012&icon_color=FFD700&text_color=C9D1D9&bg_color=00000000&border_color=E60012&cache_seconds=86400)](https://github.com/di4nsyah)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di4nsyah&layout=compact&hide_border=true&title_color=E60012&text_color=C9D1D9&bg_color=00000000&border_color=E60012&langs_count=8&cache_seconds=86400)](https://github.com/di4nsyah)
 
-<img src="https://streak-stats.demolab.com/?user=di4nsyah&theme=dark&background=00000000&ring=E60012&fire=E60012&currStreakLabel=E60012&border=E60012" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=di4nsyah&theme=dark&hide_border=true&background=00000000&border=E60012&ring=E60012&fire=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&dates=8C8C8C)](https://github.com/di4nsyah)
 
-<img src="https://github-profile-trophy.vercel.app/?username=di4nsyah&theme=radical&no-bg=true&margin-w=15&column=-1" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=di4nsyah&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=-1)](https://github.com/di4nsyah)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+> `> note: sortie data streams from a shared public relay.`
+> `> intermittent signal loss is a known relay-side issue — not a transmission error.`
 
-## COMMUNICATION CHANNEL
+[![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
+
+## 📞 COMMUNICATION CHANNEL
 
 <div align="center">
 
@@ -140,16 +141,8 @@ No favorites here — everything gets the same readout.
 [![Gmail Work](https://img.shields.io/badge/Work_Inquiries-1A1A1A?style=for-the-badge&logo=gmail&logoColor=E60012)](mailto:m.diansyahputra42@gmail.com)
 [![Discord](https://img.shields.io/badge/sskyier-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sskyier)
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=di4nsyah&color=E60012&style=flat-square&label=SORTIES+LOGGED" />
-
-<br><br>
-
-<img src="assets/footer-banner.svg" width="100%" alt="footer banner" />
+![Profile Views](https://komarev.com/ghpvc/?username=di4nsyah&color=E60012&style=flat-square&label=SORTIES+LOGGED)
 
 </div>
+
+[![footer banner](https://github.com/di4nsyah/di4nsyah/raw/main/assets/footer-banner.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/footer-banner.svg)
