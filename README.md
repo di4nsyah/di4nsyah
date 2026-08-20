@@ -19,12 +19,6 @@
 
 [![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
 
-<table>
-<tr>
-<td width="150" align="center">
-
-[![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
-
 </td>
 <td>
 
@@ -39,7 +33,7 @@
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## 🔴 TRANSMISSION LOG — PILOT DOSSIER
+## 🔴 TRANSMISSION LOG — PILOT DOSSIER 🔴
 
 > `> decrypting personnel file...`
 
@@ -55,7 +49,7 @@
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## ⚔️ DEPLOYED UNITS — WEAPON ARSENAL
+## DEPLOYED UNITS — WEAPON ARSENAL
 
 > `> querying deployment registry...` No favorites here — every unit gets the same readout.
 
@@ -69,7 +63,7 @@
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## 📡 PROFICIENCY READOUT — WEAPON CALIBRATION
+## PROFICIENCY READOUT — WEAPON CALIBRATION
 
 ```
 HTML / CSS       ███████████████████░  95%
@@ -83,7 +77,7 @@ C# / .NET        ██████████░░░░░░░░░░  5
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## 🛠️ EQUIPMENT & ARMAMENTS
+## EQUIPMENT & ARMAMENTS
 
 <div align="center">
 
@@ -103,7 +97,7 @@ C# / .NET        ██████████░░░░░░░░░░  5
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## 🛰️ OPERATIONS LOG — LIVE TELEMETRY
+## OPERATIONS LOG — LIVE TELEMETRY
 
 > `> streaming contribution feed...`
 
@@ -111,7 +105,7 @@ C# / .NET        ██████████░░░░░░░░░░  5
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## 🎯 SORTIE RECORDS — COMBAT DATA
+## SORTIE RECORDS — COMBAT DATA
 
 <div align="center">
 
@@ -129,7 +123,7 @@ C# / .NET        ██████████░░░░░░░░░░  5
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## 📞 COMMUNICATION CHANNEL
+## COMMUNICATION CHANNEL
 
 <div align="center">
 
