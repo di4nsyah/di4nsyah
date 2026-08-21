@@ -1,0 +1,103 @@
+<svg width="700" height="448" viewBox="0 0 700 448" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="pbg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12060a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow4" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="barGlow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan4" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#E60012" stroke-width="0.5" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="700" height="448" fill="url(#pbg4)"/>
+  <rect width="700" height="448" fill="url(#scan4)"/>
+  <rect x="1" y="1" width="698" height="446" fill="none" stroke="#3a1014" stroke-width="1"/>
+
+  <g stroke="#E60012" stroke-width="2.5" fill="none">
+    <path d="M 10,28 L 10,10 L 28,10"/>
+    <path d="M 672,10 L 690,10 L 690,28"/>
+    <path d="M 690,420 L 690,438 L 672,438"/>
+    <path d="M 28,438 L 10,438 L 10,420"/>
+  </g>
+
+  <g filter="url(#glow4)">
+    <text x="28" y="42" fill="#FF3355" font-size="19" font-weight="bold" letter-spacing="1">&gt; WEAPON CALIBRATION</text>
+  </g>
+  <text x="28" y="42" fill="#4be7ff" font-size="19" font-weight="bold" letter-spacing="1" opacity="0.3" transform="translate(-1.2,0.8)">&gt; WEAPON CALIBRATION</text>
+  <line x1="285" y1="36" x2="660" y2="36" stroke="#E60012" stroke-width="1" opacity="0.5"/>
+
+  
+    <text x="28" y="89.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">HTML / CSS</text>
+    <rect x="200" y="76.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="76.0" width="399.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="76.0" x2="242.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="76.0" x2="284.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="76.0" x2="326.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="76.0" x2="368.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="76.0" x2="410.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="76.0" x2="452.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="76.0" x2="494.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="76.0" x2="536.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="76.0" x2="578.0" y2="92.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="76.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="89.0" fill="#e8eef2" font-size="13" font-weight="bold">95%</text>
+    
+    <text x="28" y="127.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">JavaScript</text>
+    <rect x="200" y="114.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="114.0" width="336.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="114.0" x2="242.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="114.0" x2="284.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="114.0" x2="326.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="114.0" x2="368.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="114.0" x2="410.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="114.0" x2="452.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="114.0" x2="494.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="114.0" x2="536.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="114.0" x2="578.0" y2="130.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="114.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="127.0" fill="#e8eef2" font-size="13" font-weight="bold">80%</text>
+    
+    <text x="28" y="165.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">PHP</text>
+    <rect x="200" y="152.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="152.0" width="378.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="152.0" x2="242.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="152.0" x2="284.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="152.0" x2="326.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="152.0" x2="368.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="152.0" x2="410.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="152.0" x2="452.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="152.0" x2="494.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="152.0" x2="536.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="152.0" x2="578.0" y2="168.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="152.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="165.0" fill="#e8eef2" font-size="13" font-weight="bold">90%</text>
+    
+    <text x="28" y="203.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">Laravel</text>
+    <rect x="200" y="190.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="190.0" width="336.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="190.0" x2="242.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="190.0" x2="284.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="190.0" x2="326.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="190.0" x2="368.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="190.0" x2="410.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="190.0" x2="452.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="190.0" x2="494.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="190.0" x2="536.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="190.0" x2="578.0" y2="206.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="190.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="203.0" fill="#e8eef2" font-size="13" font-weight="bold">80%</text>
+    
+    <text x="28" y="241.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">MySQL</text>
+    <rect x="200" y="228.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="228.0" width="315.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="228.0" x2="242.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="228.0" x2="284.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="228.0" x2="326.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="228.0" x2="368.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="228.0" x2="410.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="228.0" x2="452.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="228.0" x2="494.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="228.0" x2="536.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="228.0" x2="578.0" y2="244.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="228.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="241.0" fill="#e8eef2" font-size="13" font-weight="bold">75%</text>
+    
+    <text x="28" y="279.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">Python</text>
+    <rect x="200" y="266.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="266.0" width="252.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="266.0" x2="242.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="266.0" x2="284.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="266.0" x2="326.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="266.0" x2="368.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="266.0" x2="410.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="266.0" x2="452.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="266.0" x2="494.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="266.0" x2="536.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="266.0" x2="578.0" y2="282.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="266.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="279.0" fill="#e8eef2" font-size="13" font-weight="bold">60%</text>
+    
+    <text x="28" y="317.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">Godot</text>
+    <rect x="200" y="304.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="304.0" width="210.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="304.0" x2="242.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="304.0" x2="284.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="304.0" x2="326.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="304.0" x2="368.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="304.0" x2="410.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="304.0" x2="452.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="304.0" x2="494.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="304.0" x2="536.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="304.0" x2="578.0" y2="320.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="304.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="317.0" fill="#e8eef2" font-size="13" font-weight="bold">50%</text>
+    
+    <text x="28" y="355.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">C# / .NET</text>
+    <rect x="200" y="342.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="342.0" width="210.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="342.0" x2="242.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="342.0" x2="284.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="342.0" x2="326.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="342.0" x2="368.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="342.0" x2="410.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="342.0" x2="452.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="342.0" x2="494.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="342.0" x2="536.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="342.0" x2="578.0" y2="358.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="342.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="355.0" fill="#e8eef2" font-size="13" font-weight="bold">50%</text>
+    
+    <text x="28" y="393.0" fill="#FFD700" font-size="14" font-weight="bold" letter-spacing="0.5">Unity</text>
+    <rect x="200" y="380.0" width="420" height="16" fill="#1a0d10" stroke="#3a1014" stroke-width="1"/>
+    <rect x="200" y="380.0" width="147.0" height="16" fill="#E60012" filter="url(#barGlow)"/>
+    <line x1="242.0" y1="380.0" x2="242.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="284.0" y1="380.0" x2="284.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="326.0" y1="380.0" x2="326.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="368.0" y1="380.0" x2="368.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="410.0" y1="380.0" x2="410.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="452.0" y1="380.0" x2="452.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="494.0" y1="380.0" x2="494.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="536.0" y1="380.0" x2="536.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/><line x1="578.0" y1="380.0" x2="578.0" y2="396.0" stroke="#0d1117" stroke-width="1" opacity="0.5"/>
+    <rect x="200" y="380.0" width="420" height="16" fill="none" stroke="#E60012" stroke-width="1" opacity="0.6"/>
+    <text x="634" y="393.0" fill="#e8eef2" font-size="13" font-weight="bold">35%</text>
+    
+
+  <text x="28" y="430" fill="#8fa3ad" font-size="11" font-style="italic">Self-assessed — recalibrate to whatever reads honest.</text>
+</svg>
