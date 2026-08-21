@@ -66,17 +66,10 @@
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
-## SORTIE RECORDS — COMBAT DATA
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=di4nsyah&show_icons=true&hide_border=true&title_color=E60012&icon_color=FFD700&text_color=C9D1D9&bg_color=00000000&border_color=E60012&cache_seconds=86400)](https://github.com/di4nsyah)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di4nsyah&layout=compact&hide_border=true&title_color=E60012&text_color=C9D1D9&bg_color=00000000&border_color=E60012&langs_count=8&cache_seconds=86400)](https://github.com/di4nsyah)
+### SORTIE RECORDS — COMBAT DATA
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=di4nsyah&theme=dark&hide_border=true&background=00000000&border=E60012&ring=E60012&fire=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&dates=8C8C8C)](https://github.com/di4nsyah)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=di4nsyah&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=-1)](https://github.com/di4nsyah)
-
-> `> note: sortie data streams from a shared public relay.`
-> `> intermittent signal loss is a known relay-side issue — not a transmission error.`
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
