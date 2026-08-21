@@ -38,7 +38,7 @@
 
 ## PROFICIENCY READOUT — WEAPON CALIBRATION
 
-[![proficiency readout](https://github.com/di4nsyah/di4nsyah/raw/main/assets/proficiency-panel.svg?v=1)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/proficiency-panel.svg)
+[![proficiency readout](https://github.com/di4nsyah/di4nsyah/raw/main/assets/proficiency-panel.svg?v=2)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/proficiency-panel.svg)
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
