@@ -35,7 +35,7 @@
     <path d="M 28,66 L 720,66 L 712,69 L 28,69 Z" fill="#E60012" opacity="0.35"/>
     <rect x="28" y="80" width="52" height="20" rx="2" fill="none" stroke="#E60012" stroke-width="1.2"/>
     <text x="54" y="94" fill="#E60012" font-size="12" font-weight="bold" text-anchor="middle">MS-01</text>
-    <text x="92" y="95" fill="#FFD700" font-size="16" font-weight="bold">IDX Trading Analyzer</text>
+    <text x="92" y="95" fill="#FFD700" font-size="16" font-weight="bold">IDXAnalyzer</text>
     <text x="92" y="112" fill="#8fa3ad" font-size="11.5">Recon / Analysis Unit</text>
     <g font-size="10.5" fill="#c9d1d9">
       <rect x="330" y="83" width="58" height="16" rx="7" fill="none" stroke="#3a1014" stroke-width="1"/>
@@ -66,33 +66,18 @@
     <text x="681" y="166" fill="#c9d1d9" font-size="10.5" font-weight="bold" text-anchor="middle">◆ COMPLETE</text>
   </g>
 
-  <!-- ROW 3: MS-03 PocketTrack -->
-  <g>
-    <path d="M 28,206 L 720,206 L 712,209 L 28,209 Z" fill="#E60012" opacity="0.35"/>
-    <rect x="28" y="220" width="52" height="20" rx="2" fill="none" stroke="#E60012" stroke-width="1.2"/>
-    <text x="54" y="234" fill="#E60012" font-size="12" font-weight="bold" text-anchor="middle">MS-03</text>
-    <text x="92" y="235" fill="#FFD700" font-size="16" font-weight="bold">PocketTrack</text>
-    <text x="92" y="252" fill="#8fa3ad" font-size="11.5">Support Unit — Finance Tracker</text>
-    <g font-size="10.5" fill="#c9d1d9">
-      <rect x="330" y="223" width="70" height="16" rx="7" fill="none" stroke="#3a1014" stroke-width="1"/>
-      <text x="365" y="234" text-anchor="middle">Web App</text>
-    </g>
-    <rect x="630" y="223" width="94" height="18" rx="3" fill="#241505" stroke="#FFD700" stroke-width="1"/>
-    <text x="677" y="236" fill="#FFD700" font-size="10.5" font-weight="bold" text-anchor="middle">▲ IN PROGRESS</text>
-  </g>
-
   <!-- ROW 4: MS-04 Projost Academy -->
   <g>
     <path d="M 28,276 L 720,276 L 712,279 L 28,279 Z" fill="#E60012" opacity="0.35"/>
     <rect x="28" y="290" width="52" height="20" rx="2" fill="none" stroke="#E60012" stroke-width="1.2"/>
     <text x="54" y="304" fill="#E60012" font-size="12" font-weight="bold" text-anchor="middle">MS-04</text>
-    <text x="92" y="305" fill="#FFD700" font-size="16" font-weight="bold">Projost Academy</text>
-    <text x="92" y="322" fill="#8fa3ad" font-size="11.5">Training Simulation</text>
+    <text x="92" y="305" fill="#FFD700" font-size="16" font-weight="bold">Climora</text>
+    <text x="92" y="322" fill="#8fa3ad" font-size="11.5">Weather forecast</text>
     <g font-size="10.5" fill="#c9d1d9">
       <rect x="330" y="293" width="42" height="16" rx="7" fill="none" stroke="#3a1014" stroke-width="1"/>
-      <text x="351" y="304" text-anchor="middle">PHP</text>
+      <text x="351" y="304" text-anchor="middle">Javascript</text>
       <rect x="378" y="293" width="56" height="16" rx="7" fill="none" stroke="#3a1014" stroke-width="1"/>
-      <text x="406" y="304" text-anchor="middle">MySQL</text>
+      <text x="406" y="304" text-anchor="middle">Openweather</text>
     </g>
     <rect x="638" y="293" width="86" height="18" rx="3" fill="#241a05" stroke="#8fa3ad" stroke-width="1"/>
     <text x="681" y="306" fill="#c9d1d9" font-size="10.5" font-weight="bold" text-anchor="middle">◆ COMPLETE</text>
