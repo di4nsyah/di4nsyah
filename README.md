@@ -17,7 +17,7 @@
 <tr>
 <td width="150" align="center">
 
-[![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
+[![unit crest](https://github.com/di4nsyah/di4nsyah/raw/main/assets/unit-crest.svg?v=2)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/unit-crest.svg)
 
 </td>
 <td>
