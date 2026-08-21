@@ -38,15 +38,7 @@
 
 ## PROFICIENCY READOUT — WEAPON CALIBRATION
 
-```
-HTML / CSS       ███████████████████░  95%
-JavaScript       ████████████████░░░░  80%
-PHP              ██████████████████░░  90%
-Laravel          ████████████████░░░░  80%
-MySQL            ███████████████░░░░░  75%
-C# / .NET        ██████████░░░░░░░░░░  50%
-```
-> Self-assessed — recalibrate to whatever reads honest.
+[![proficiency readout](https://github.com/di4nsyah/di4nsyah/raw/main/assets/proficiency-panel.svg?v=1)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/proficiency-panel.svg)
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
