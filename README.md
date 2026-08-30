@@ -7,7 +7,7 @@
 
 [![Boot Sequence](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1000&pause=300&color=8C8C8C&center=true&vCenter=true&width=500&lines=%3E+booting+unit...;%3E+loading+pilot+data...;%3E+access+granted)](https://github.com/di4nsyah)
 
-[![Status Ticker](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=Currently+deploying%3A+PocketTrack;Currently+studying%3A+RPL+at+SMKN+6+Jakarta;Currently+learning%3A+front-end;Status%3A+open+to+internship+offers)](https://github.com/di4nsyah)
+[![Status Ticker](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=Currently+deploying%3A+Lumina;Currently+studying%3A+RPL+at+SMKN+6+Jakarta;Currently+learning%3A+Backend;Status%3A+open+to+internship+offers)](https://github.com/di4nsyah)
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
