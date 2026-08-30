@@ -32,7 +32,7 @@
 
 > `> querying deployment registry...`
 
-[![weapon arsenal](https://github.com/di4nsyah/di4nsyah/raw/main/assets/weapon-arsenal-panel.svg?v=2)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/weapon-arsenal-panel.svg)
+[![weapon arsenal](https://github.com/di4nsyah/di4nsyah/raw/main/assets/weapon-arsenal-panel.svg?v=3)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/weapon-arsenal-panel.svg)
 
 [![divider](https://github.com/di4nsyah/di4nsyah/raw/main/assets/divider.svg)](https://github.com/di4nsyah/di4nsyah/blob/main/assets/divider.svg)
 
