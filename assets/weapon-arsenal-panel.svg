@@ -163,7 +163,7 @@
     <text x="677" y="551" fill="#FFD700" font-size="10.5" font-weight="bold" text-anchor="middle">▲ IN PROGRESS</text>
   </g>
 
-  <g stroke="#E60012" stroke-width="1" opacity="0.5">
+  <g>
     <line x1="10" y1="523" x2="750" y2="523"/>
     <line x1="10" y1="588" x2="750" y2="588"/>
   </g>
